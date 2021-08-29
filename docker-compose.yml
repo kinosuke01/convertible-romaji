@@ -1,0 +1,8 @@
+services:
+  php:
+    image: webdevops/php-apache-dev:7.4
+    volumes:
+      - "./:/var/app"
+    ports:
+      - "80:80"
+    tty: true

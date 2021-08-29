@@ -1,0 +1,21 @@
+{
+    "name": "kinosuke01/convertible-romaji",
+    "description": "Convert romaji to hiragana or katanaka",
+    "keywords": ["romaji", "convert", "hiragana", "katakana"],
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/kinosuke01/convertible-romaji",
+    "authors": [
+      {
+        "name": "kinosuke01"
+      }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+      "psr-4": {
+        "ConvertibleRomaji\\": "src/ConvertibleRomaji/"
+      }
+    }
+}
