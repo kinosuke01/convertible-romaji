@@ -1,8 +1,8 @@
 <?php
-namespace ConvertibleRomaji;
+namespace Kinosuke01\ConvertibleRomaji;
 
 use PHPUnit\Framework\TestCase;
-use ConvertibleRomaji\ConvertibleRomaji;
+use Kinosuke01\ConvertibleRomaji\ConvertibleRomaji;
 
 class ConvertibleRomajiTest extends TestCase
 {

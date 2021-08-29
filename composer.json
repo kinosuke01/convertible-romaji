@@ -15,7 +15,7 @@
     },
     "autoload": {
       "psr-4": {
-        "ConvertibleRomaji\\": "src/ConvertibleRomaji/"
+        "Kinosuke01\\ConvertibleRomaji\\": "src/Kinosuke01/ConvertibleRomaji/"
       }
     }
 }

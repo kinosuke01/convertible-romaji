@@ -1,5 +1,5 @@
 <?php
-namespace ConvertibleRomaji;
+namespace Kinosuke01\ConvertibleRomaji;
 
 /**
  * ローマ字クラス
